@@ -1,0 +1,21 @@
+{
+  "name": "emage",
+  "version": "0.0.1",
+  "description": "Data processor for imageset",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palaniraja/emage.git"
+  },
+  "author": "palaniraja",
+  "bugs": {
+    "url": "https://github.com/palaniraja/emage/issues"
+  },
+  "homepage": "https://github.com/palaniraja/emage#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
